@@ -1,0 +1,36 @@
+/* import font family */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+body {
+    background-color: #434343;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    color: #FF5E19;
+    font-family: 'Berkshire Swash';
+}
+
+header {
+    height: 400px;
+    background-color: #2c2c2c;
+}
+
+.card-item {
+    background-color: #0D0D0D;
+    color: white;
+}
+
+.bg-color {
+    background-color: #015196;
+}
+
+footer {
+    margin-top: 130px;
+}
+
+hr {
+    border: 1px solid #717171;
+}
